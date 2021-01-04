@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-djinni ![Build](https://github.com/cross-language-cpp/asdf-djinni/workflows/Build/badge.svg) ![Lint](https://github.com/cross-language-cpp/asdf-djinni/workflows/Lint/badge.svg)
+# asdf-djinni ![Build](https://github.com/cross-language-cpp/asdf-djinni/workflows/Build/badge.svg?event=push&branch=main) ![Lint](https://github.com/cross-language-cpp/asdf-djinni/workflows/Lint/badge.svg?event=push&branch=main)
 
 [djinni](<TOOL HOMEPAGE>) plugin for the [asdf version manager](https://asdf-vm.com).
 

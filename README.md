@@ -46,7 +46,7 @@ asdf install djinni latest
 asdf global djinni latest
 
 # Now djinni commands are available
-<TOOL CHECK>
+djinni --help
 ```
 
 Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to
